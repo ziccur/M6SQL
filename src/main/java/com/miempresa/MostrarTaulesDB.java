@@ -11,8 +11,8 @@ public class MostrarTaulesDB {
 
         // URL de conexión con el formato correcto
         String url = "jdbc:mariadb://localhost:3306/LigaFutbol";
-        String usuari = "zzz"; // Sustituye por tu usuario
-        String contrasenya = "PerroUruguayo6969"; // Sustituye por tu contraseña
+        String usuari = "usuariProva"; // Sustituye por tu usuario
+        String contrasenya = "12345"; // Sustituye por tu contraseña
 
         // Cargar el controlador JDBC de MariaDB
         try {
